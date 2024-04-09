@@ -1,0 +1,60 @@
+{
+  "itens": [
+    {
+      "Nome": "Carne",
+      "Medida": "Kg",
+      "QtdCrianca": 0.2,
+      "QtdMulher": 0.32,
+      "QtdHomem": 0.4
+    },
+    {
+      "Nome": "Pão de Alho",
+      "Medida": "Und.",
+      "QtdCrianca": 1,
+      "QtdMulher": 2,
+      "QtdHomem": 2
+    },
+    {
+      "Nome": "Carvão",
+      "Medida": "Kg",
+      "QtdCrianca": 1,
+      "QtdMulher": 1,
+      "QtdHomem": 1
+    },
+    {
+      "Nome": "Gelo",
+      "Medida": "Kg",
+      "QtdCrianca": 0.5,
+      "QtdMulher": 0.5,
+      "QtdHomem": 0.5
+    },
+    {
+      "Nome": "Refrigerante",
+      "Medida": "L",
+      "QtdCrianca": 0.4,
+      "QtdMulher": 0.4,
+      "QtdHomem": 0.4
+    },
+    {
+      "Nome": "Sal",
+      "Medida": "g",
+      "QtdCrianca": 40,
+      "QtdMulher": 40,
+      "QtdHomem": 40
+    },
+    {
+      "Nome": "Agua",
+      "Medida": "L",
+      "QtdCrianca": 0.2,
+      "QtdMulher": 0.2,
+      "QtdHomem": 0.2
+    },
+    {
+      "Nome": "Cerveja",
+      "Medida": "garrafas/600ml",
+      "QtdCrianca": 3,
+      "QtdMulher": 3,
+      "QtdHomem": 0
+    }
+  ]
+}
